@@ -9,7 +9,7 @@
 [link](https://www.kaggle.com/datasets/danielgrijalvas/movies) 
 
 ### Output
-![p](https://raw.githubusercontent.com/{mashhisyam}/{UAS_MOVIE}/{master}/.github/images/{BigDataHasil}.{png})
+![image](https://user-images.githubusercontent.com/75663887/176482828-1f0c582f-6780-4ac0-8acc-12abcb50b20f.png)
 
 ### Dataset (.csv)
 [link](https://drive.google.com/file/d/1KweWeattXMsMZviV5mFD7r-DFYWmEHto/view?usp=sharing) berikut.
